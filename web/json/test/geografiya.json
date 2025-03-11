@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Yer qobig'ining eng yuqori qatlami nima deb ataladi?",
+    "options": {
+      "a": "Litosfera",
+      "b": "Mantoya",
+      "c": "Yadro",
+      "d": "Biosfera"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Dunyodagi eng baland cho'qqi qaysi?",
+    "options": {
+      "a": "K2",
+      "b": "Everest",
+      "c": "Kilimanjaro",
+      "d": "Makalu"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Dunyodagi eng uzun daryo qaysi?",
+    "options": {
+      "a": "Amazonka",
+      "b": "Nil",
+      "c": "Missisipi",
+      "d": "Yangzi"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Yerning eng katta qit'asi qaysi?",
+    "options": {
+      "a": "Afrika",
+      "b": "Antarktida",
+      "c": "Yevrosiyo",
+      "d": "Shimoliy Amerika"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "O'rta yer dengizi qaysi okeanga tutashgan?",
+    "options": {
+      "a": "Atlantika",
+      "b": "Tinch okean",
+      "c": "Hind okeani",
+      "d": "Shimoliy Buzok okeani"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Dunyodagi eng katta cho'l qaysi?",
+    "options": {
+      "a": "Gobi",
+      "b": "Sahara",
+      "c": "Kalahari",
+      "d": "Arabiston"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "O'zbekistonning poytaxti qaysi shahar?",
+    "options": {
+      "a": "Samarqand",
+      "b": "Buxoro",
+      "c": "Toshkent",
+      "d": "Andijon"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Dunyodagi eng katta okean qaysi?",
+    "options": {
+      "a": "Atlantika",
+      "b": "Hind okeani",
+      "c": "Tinch okean",
+      "d": "Shimoliy Buzok okeani"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Yer yuzida qancha qit'a mavjud?",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "7"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "O'zbekistonning eng uzun daryosi qaysi?",
+    "options": {
+      "a": "Amudaryo",
+      "b": "Sirdaryo",
+      "c": "Zarafshon",
+      "d": "Chirchiq"
+    },
+    "correct_answer": "b"
+  }
+]

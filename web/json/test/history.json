@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Birinchi jahon urushi qachon boshlangan?",
+    "options": {
+      "a": "1912 yil",
+      "b": "1914 yil",
+      "c": "1916 yil",
+      "d": "1918 yil"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "O'zbekistonning Birinchi Prezidenti kim bo'lgan?",
+    "options": {
+      "a": "Islom Karimov",
+      "b": "Shavkat Mirziyoyev",
+      "c": "Abdulla Aripov",
+      "d": "Ibrohim Yusupov"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Ikkinchi jahon urushi qachon boshlangan?",
+    "options": {
+      "a": "1937 yil",
+      "b": "1939 yil",
+      "c": "1941 yil",
+      "d": "1943 yil"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Buyuk Ipak Yo'li qaysi davrda rivojlangan?",
+    "options": {
+      "a": "O'rta asrlar",
+      "b": "Yangi davr",
+      "c": "Qadimgi davr",
+      "d": "Hozirgi davr"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Amir Temur qachon tug'ilgan?",
+    "options": {
+      "a": "1336 yil",
+      "b": "1346 yil",
+      "c": "1356 yil",
+      "d": "1366 yil"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Buxoro amirligi qachon tugatilgan?",
+    "options": {
+      "a": "1917 yil",
+      "b": "1920 yil",
+      "c": "1924 yil",
+      "d": "1931 yil"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "O'zbekiston mustaqilligini qachon e'lon qilgan?",
+    "options": {
+      "a": "1990 yil",
+      "b": "1991 yil",
+      "c": "1992 yil",
+      "d": "1993 yil"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Birinchi Prezident Islom Karimov qachon vafot etgan?",
+    "options": {
+      "a": "2015 yil",
+      "b": "2016 yil",
+      "c": "2017 yil",
+      "d": "2018 yil"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "O'zbek tiliga davlat tili maqomi qachon berilgan?",
+    "options": {
+      "a": "1989 yil",
+      "b": "1991 yil",
+      "c": "1992 yil",
+      "d": "1993 yil"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Temuriylar davlatining asoschisi kim?",
+    "options": {
+      "a": "Amir Temur",
+      "b": "Ulug'bek",
+      "c": "Bobur",
+      "d": "Shayboniyxon"
+    },
+    "correct_answer": "a"
+  }
+]

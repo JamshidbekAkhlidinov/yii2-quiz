@@ -1,0 +1,102 @@
+[
+  {
+    "question": "O'zbek tili qachon davlat tili maqomini oldi?",
+    "options": {
+      "a": "1989 yil",
+      "b": "1991 yil",
+      "c": "1993 yil",
+      "d": "1995 yil"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "O'zbek tili qaysi til oilasiga kiradi?",
+    "options": {
+      "a": "Indo-Yevropa",
+      "b": "Ural-Altay",
+      "c": "Sino-Tibet",
+      "d": "Afro-Oziyo"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "O'zbek tilining birinchi yozma yodgorliklari qaysi davrga tegishli?",
+    "options": {
+      "a": "Qadimgi turk davri",
+      "b": "O'rta asrlar",
+      "c": "Yangi davr",
+      "d": "Hozirgi davr"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "O'zbek tilining hozirgi adabiy tili kim tomonidan asos solingan?",
+    "options": {
+      "a": "Alisher Navoiy",
+      "b": "Abdulla Qodiriy",
+      "c": "Erkin Vohidov",
+      "d": "Abdulla Oripov"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "O'zbek tilida nechta unli tovush mavjud?",
+    "options": {
+      "a": "6",
+      "b": "8",
+      "c": "10",
+      "d": "12"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "O'zbek tilida nechta undosh tovush mavjud?",
+    "options": {
+      "a": "20",
+      "b": "22",
+      "c": "24",
+      "d": "26"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "O'zbek tilining morfologik qurilishi nimani anglatadi?",
+    "options": {
+      "a": "So'zlarning tuzilishi va o'zgarishi",
+      "b": "So'zlarning birikishi",
+      "c": "So'zlarning talaffuzi",
+      "d": "So'zlarning ma'nosi"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "O'zbek tili adabiyotida mashhur bo'lgan birinchi romanchining ismi nima?",
+    "options": {
+      "a": "Abdulla Qodiriy",
+      "b": "Cho'lpon",
+      "c": "Oybek",
+      "d": "Erkin Vohidov"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "O'zbek tilida necha xil ma'no o'zgarishi mavjud?",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "O'zbek tilidagi sinonimlar nimani anglatadi?",
+    "options": {
+      "a": "Bir xil ma'noni anglatadigan so'zlar",
+      "b": "Teskari ma'noni anglatadigan so'zlar",
+      "c": "O'xshash talaffuzli so'zlar",
+      "d": "Turli tillardan olingan so'zlar"
+    },
+    "correct_answer": "a"
+  }
+]

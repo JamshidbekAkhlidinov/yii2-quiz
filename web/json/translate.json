@@ -1,0 +1,2702 @@
+{
+    "--Select--": {
+        "category": "app",
+        "value": "--Select--",
+        "items": {
+            "en": "--Select--",
+            "ru": "--Выбирать--",
+            "uz": "--Tanlash--"
+        }
+    },
+    "University": {
+        "category": "app",
+        "value": "University",
+        "items": {
+            "en": "University",
+            "ru": "Университет",
+            "uz": "Universitet"
+        }
+    },
+    "Faculty": {
+        "category": "app",
+        "value": "Faculty",
+        "items": {
+            "en": "Faculty",
+            "ru": "Факультет",
+            "uz": "Fakultet"
+        }
+    },
+    "First Name": {
+        "category": "app",
+        "value": "First Name",
+        "items": {
+            "en": "First Name",
+            "ru": "Имя",
+            "uz": "Ism"
+        }
+    },
+    "Last Name": {
+        "category": "app",
+        "value": "Last Name",
+        "items": {
+            "en": "Last Name",
+            "ru": "Фамилия",
+            "uz": "Familiya"
+        }
+    },
+    "Middle Name": {
+        "category": "app",
+        "value": "Middle Name",
+        "items": {
+            "en": "Middle Name",
+            "ru": "Второе имя",
+            "uz": "Otasini ismi"
+        }
+    },
+    "Passport Number": {
+        "category": "app",
+        "value": "Passport Number",
+        "items": {
+            "en": "Passport Number",
+            "ru": "Номер паспорта",
+            "uz": "Pasport raqami"
+        }
+    },
+    "Application File": {
+        "category": "app",
+        "value": "Application File",
+        "items": {
+            "en": "Application File",
+            "ru": "Файл приложения",
+            "uz": "Ilova fayli"
+        }
+    },
+    "Passport File": {
+        "category": "app",
+        "value": "Passport File",
+        "items": {
+            "en": "Passport File",
+            "ru": "Паспортный файл",
+            "uz": "Pasport fayli"
+        }
+    },
+    "Diploma Application File": {
+        "category": "app",
+        "value": "Diploma Application File",
+        "items": {
+            "en": "Diploma Application File",
+            "ru": "Файл заявления на получение диплома",
+            "uz": "Diplom uchun ariza fayli"
+        }
+    },
+    "Diploma Copy File": {
+        "category": "app",
+        "value": "Diploma Copy File",
+        "items": {
+            "en": "Diploma Copy File",
+            "ru": "Копия диплома",
+            "uz": "Diplom nusxasi fayli"
+        }
+    },
+    "Photo File": {
+        "category": "app",
+        "value": "Photo File",
+        "items": {
+            "en": "Photo File",
+            "ru": "Файл фотографии",
+            "uz": "Foto fayl"
+        }
+    },
+    "Certificate File": {
+        "category": "app",
+        "value": "Certificate File",
+        "items": {
+            "en": "Certificate File",
+            "ru": "Файл сертификата",
+            "uz": "Sertifikat fayli"
+        }
+    },
+    "Exam Result": {
+        "category": "app",
+        "value": "Exam Result",
+        "items": {
+            "en": "Exam Result",
+            "ru": "Результаты экзамена",
+            "uz": "Imtihon natijasi"
+        }
+    },
+    "Options": {
+        "category": "app",
+        "value": "Options",
+        "items": {
+            "en": "Options",
+            "ru": "Параметры",
+            "uz": "Variantlar"
+        }
+    },
+    "Date of Birth": {
+        "category": "app",
+        "value": "Date of Birth",
+        "items": {
+            "en": "Date of Birth",
+            "ru": "Дата рождения",
+            "uz": "Tug'ilgan kuni"
+        }
+    },
+    "Username": {
+        "category": "app",
+        "value": "Username",
+        "items": {
+            "en": "Username",
+            "ru": "Имя пользователя",
+            "uz": "Foydalanuvchi nomi"
+        }
+    },
+    "E-mail": {
+        "category": "app",
+        "value": "E-mail",
+        "items": {
+            "en": "E-mail",
+            "ru": "Электронная почта",
+            "uz": "Elektron pochta"
+        }
+    },
+    "Status": {
+        "category": "app",
+        "value": "Status",
+        "items": {
+            "en": "Status",
+            "ru": "Положение дел",
+            "uz": "Holat"
+        }
+    },
+    "API access token": {
+        "category": "app",
+        "value": "API access token",
+        "items": {
+            "en": "API access token",
+            "ru": "Токен доступа к API",
+            "uz": "API kirish tokeni"
+        }
+    },
+    "Created at": {
+        "category": "app",
+        "value": "Created at",
+        "items": {
+            "en": "Created at",
+            "ru": "Создан в",
+            "uz": "Yaratilgan"
+        }
+    },
+    "Updated at": {
+        "category": "app",
+        "value": "Updated at",
+        "items": {
+            "en": "Updated at",
+            "ru": "Обновлено в",
+            "uz": "Yangilangan"
+        }
+    },
+    "Last login": {
+        "category": "app",
+        "value": "Last login",
+        "items": {
+            "en": "Last login",
+            "ru": "Последний Войти",
+            "uz": "Oxirgi login"
+        }
+    },
+    "ID": {
+        "category": "app",
+        "value": "ID",
+        "items": {
+            "en": "ID",
+            "ru": "ИДЕНТИФИКАТОР",
+            "uz": "ID"
+        }
+    },
+    "User": {
+        "category": "app",
+        "value": "User",
+        "items": {
+            "en": "User",
+            "ru": "Пользователь",
+            "uz": "Foydalanuvchi"
+        }
+    },
+    "Diploma App File": {
+        "category": "app",
+        "value": "Diploma App File",
+        "items": {
+            "en": "Diploma App File",
+            "ru": "Файл приложения диплома",
+            "uz": "Diplom uchun dastur fayli"
+        }
+    },
+    "Created By": {
+        "category": "app",
+        "value": "Created By",
+        "items": {
+            "en": "Created By",
+            "ru": "Сделано",
+            "uz": "Tomonidan yaratilgan"
+        }
+    },
+    "Updated By": {
+        "category": "app",
+        "value": "Updated By",
+        "items": {
+            "en": "Updated By",
+            "ru": "Обновлено",
+            "uz": "Yangilangan"
+        }
+    },
+    "Date Of Birthday": {
+        "category": "app",
+        "value": "Date Of Birthday",
+        "items": {
+            "en": "Date Of Birthday",
+            "ru": "Дата рождения",
+            "uz": "Tug'ilgan kun"
+        }
+    },
+    "Users": {
+        "category": "app",
+        "value": "Users",
+        "items": {
+            "en": "Users",
+            "ru": "Пользователи",
+            "uz": "Foydalanuvchilar"
+        }
+    },
+    "Universities": {
+        "category": "app",
+        "value": "Universities",
+        "items": {
+            "en": "Universities",
+            "ru": "Университеты",
+            "uz": "Universitetlar"
+        }
+    },
+    "Faculties": {
+        "category": "app",
+        "value": "Faculties",
+        "items": {
+            "en": "Faculties",
+            "ru": "Факультеты",
+            "uz": "Fakultetlar"
+        }
+    },
+    "Appeals": {
+        "category": "app",
+        "value": "Appeals",
+        "items": {
+            "en": "Appeals",
+            "ru": "Апелляции",
+            "uz": "Apellyatsiya"
+        }
+    },
+    "Companies": {
+        "category": "app",
+        "value": "Companies",
+        "items": {
+            "en": "Companies",
+            "ru": "Компании",
+            "uz": "Kompaniyalar"
+        }
+    },
+    "Bot users": {
+        "category": "app",
+        "value": "Bot users",
+        "items": {
+            "en": "Bot users",
+            "ru": "Пользователи ботов",
+            "uz": "Bot foydalanuvchilari"
+        }
+    },
+    "File manager": {
+        "category": "app",
+        "value": "File manager",
+        "items": {
+            "en": "File manager",
+            "ru": "Файловый менеджер",
+            "uz": "Fayl menejeri"
+        }
+    },
+    "I18n Messages": {
+        "category": "app",
+        "value": "I18n Messages",
+        "items": {
+            "en": "I18n Messages",
+            "ru": "I18n сообщения",
+            "uz": "I18n xabarlari"
+        }
+    },
+    "Rbac configuration": {
+        "category": "app",
+        "value": "Rbac configuration",
+        "items": {
+            "en": "Rbac configuration",
+            "ru": "Конфигурация RBAC",
+            "uz": "Rbac konfiguratsiyasi"
+        }
+    },
+    "Roles": {
+        "category": "app",
+        "value": "Roles",
+        "items": {
+            "en": "Roles",
+            "ru": "Роли",
+            "uz": "Rollar"
+        }
+    },
+    "Permissions": {
+        "category": "app",
+        "value": "Permissions",
+        "items": {
+            "en": "Permissions",
+            "ru": "Разрешения",
+            "uz": "Ruxsatlar"
+        }
+    },
+    "Items childs": {
+        "category": "app",
+        "value": "Items childs",
+        "items": {
+            "en": "Items childs",
+            "ru": "Предметы детские",
+            "uz": "Bolalar uchun buyumlar"
+        }
+    },
+    "Home": {
+        "category": "app",
+        "value": "Home",
+        "items": {
+            "en": "Home",
+            "ru": "Дом",
+            "uz": "Uy"
+        }
+    },
+    "Create Faculty": {
+        "category": "app",
+        "value": "Create Faculty",
+        "items": {
+            "en": "Create Faculty",
+            "ru": "Создать факультет",
+            "uz": "Fakultet yaratish"
+        }
+    },
+    "University ID": {
+        "category": "app",
+        "value": "University ID",
+        "items": {
+            "en": "University ID",
+            "ru": "Идентификатор университета",
+            "uz": "Universitet ID"
+        }
+    },
+    "Name": {
+        "category": "app",
+        "value": "Name",
+        "items": {
+            "en": "Name",
+            "ru": "Имя",
+            "uz": "Nomi"
+        }
+    },
+    "Create University": {
+        "category": "app",
+        "value": "Create University",
+        "items": {
+            "en": "Create University",
+            "ru": "Создать университет",
+            "uz": "Universitet yaratish"
+        }
+    },
+    "Location": {
+        "category": "app",
+        "value": "Location",
+        "items": {
+            "en": "Location",
+            "ru": "Расположение",
+            "uz": "Manzil"
+        }
+    },
+    "Create Appeal": {
+        "category": "app",
+        "value": "Create Appeal",
+        "items": {
+            "en": "Create Appeal",
+            "ru": "Создать апелляцию",
+            "uz": "Apellyatsiya yaratish"
+        }
+    },
+    "Telegram Companies": {
+        "category": "app",
+        "value": "Telegram Companies",
+        "items": {
+            "en": "Telegram Companies",
+            "ru": "Телеграмм Компании",
+            "uz": "Telegram kompaniyalari"
+        }
+    },
+    "Create Telegram Company": {
+        "category": "app",
+        "value": "Create Telegram Company",
+        "items": {
+            "en": "Create Telegram Company",
+            "ru": "Создать Telegram-компанию",
+            "uz": "Telegram kompaniyasini yarating"
+        }
+    },
+    "Bot Token": {
+        "category": "app",
+        "value": "Bot Token",
+        "items": {
+            "en": "Bot Token",
+            "ru": "Токен бота",
+            "uz": "Bot token"
+        }
+    },
+    "Admin Ids": {
+        "category": "app",
+        "value": "Admin Ids",
+        "items": {
+            "en": "Admin Ids",
+            "ru": "Идентификаторы администраторов",
+            "uz": "Administrator identifikatorlari"
+        }
+    },
+    "Admin Url": {
+        "category": "app",
+        "value": "Admin Url",
+        "items": {
+            "en": "Admin Url",
+            "ru": "URL-адрес администратора",
+            "uz": "Administrator URL manzili"
+        }
+    },
+    "Channel ID": {
+        "category": "app",
+        "value": "Channel ID",
+        "items": {
+            "en": "Channel ID",
+            "ru": "Идентификатор канала",
+            "uz": "Kanal identifikatori"
+        }
+    },
+    "Telegram Bot Users": {
+        "category": "app",
+        "value": "Telegram Bot Users",
+        "items": {
+            "en": "Telegram Bot Users",
+            "ru": "Пользователи Telegram-бота",
+            "uz": "Telegram bot foydalanuvchilari"
+        }
+    },
+    "Create Telegram Bot User": {
+        "category": "app",
+        "value": "Create Telegram Bot User",
+        "items": {
+            "en": "Create Telegram Bot User",
+            "ru": "Создать пользователя Telegram-бота",
+            "uz": "Telegram bot foydalanuvchisini yarating"
+        }
+    },
+    "Telegram Company ID": {
+        "category": "app",
+        "value": "Telegram Company ID",
+        "items": {
+            "en": "Telegram Company ID",
+            "ru": "Идентификатор компании Telegram",
+            "uz": "Telegram kompaniyasi identifikatori"
+        }
+    },
+    "Telegram User ID": {
+        "category": "app",
+        "value": "Telegram User ID",
+        "items": {
+            "en": "Telegram User ID",
+            "ru": "Идентификатор пользователя Telegram",
+            "uz": "Telegram foydalanuvchi identifikatori"
+        }
+    },
+    "Phone Number": {
+        "category": "app",
+        "value": "Phone Number",
+        "items": {
+            "en": "Phone Number",
+            "ru": "Номер телефона",
+            "uz": "Telefon raqami"
+        }
+    },
+    "Balance": {
+        "category": "app",
+        "value": "Balance",
+        "items": {
+            "en": "Balance",
+            "ru": "Баланс",
+            "uz": "Balans"
+        }
+    },
+    "Is Admin": {
+        "category": "app",
+        "value": "Is Admin",
+        "items": {
+            "en": "Is Admin",
+            "ru": "Администратор",
+            "uz": "Admin"
+        }
+    },
+    "Is Block": {
+        "category": "app",
+        "value": "Is Block",
+        "items": {
+            "en": "Is Block",
+            "ru": "Блокируется",
+            "uz": "Blok"
+        }
+    },
+    "Step": {
+        "category": "app",
+        "value": "Step",
+        "items": {
+            "en": "Step",
+            "ru": "Шаг",
+            "uz": "Qadam"
+        }
+    },
+    "Full Name": {
+        "category": "app",
+        "value": "Full Name",
+        "items": {
+            "en": "Full Name",
+            "ru": "Полное имя",
+            "uz": "To'liq ism"
+        }
+    },
+    "I18n Source Messages": {
+        "category": "app",
+        "value": "I18n Source Messages",
+        "items": {
+            "en": "I18n Source Messages",
+            "ru": "Исходные сообщения I18n",
+            "uz": "I18n manba xabarlari"
+        }
+    },
+    "Create I18n Source Message": {
+        "category": "app",
+        "value": "Create I18n Source Message",
+        "items": {
+            "en": "Create I18n Source Message",
+            "ru": "Создать исходное сообщение I18n",
+            "uz": "I18n manba xabarini yarating"
+        }
+    },
+    "Category": {
+        "category": "app",
+        "value": "Category",
+        "items": {
+            "en": "Category",
+            "ru": "Категория",
+            "uz": "Turkum"
+        }
+    },
+    "Message": {
+        "category": "app",
+        "value": "Message",
+        "items": {
+            "en": "Message",
+            "ru": "Сообщение",
+            "uz": "Xabar"
+        }
+    },
+    "Auth Items": {
+        "category": "app",
+        "value": "Auth Items",
+        "items": {
+            "en": "Auth Items",
+            "ru": "Элементы аутентификации",
+            "uz": "Auth ob'ektlari"
+        }
+    },
+    "Auth Item Form": {
+        "category": "app",
+        "value": "Auth Item Form",
+        "items": {
+            "en": "Auth Item Form",
+            "ru": "Форма элемента аутентификации",
+            "uz": "Auth element shakli"
+        }
+    },
+    "Type": {
+        "category": "app",
+        "value": "Type",
+        "items": {
+            "en": "Type",
+            "ru": "Тип",
+            "uz": "Turi"
+        }
+    },
+    "Description": {
+        "category": "app",
+        "value": "Description",
+        "items": {
+            "en": "Description",
+            "ru": "Описание",
+            "uz": "Tavsif"
+        }
+    },
+    "Rule Name": {
+        "category": "app",
+        "value": "Rule Name",
+        "items": {
+            "en": "Rule Name",
+            "ru": "Имя правила",
+            "uz": "Qoida nomi"
+        }
+    },
+    "Data": {
+        "category": "app",
+        "value": "Data",
+        "items": {
+            "en": "Data",
+            "ru": "Данные",
+            "uz": "Ma'lumotlar"
+        }
+    },
+    "Auth Item Update Form": {
+        "category": "app",
+        "value": "Auth Item Update Form",
+        "items": {
+            "en": "Auth Item Update Form",
+            "ru": "Форма обновления элемента аутентификации",
+            "uz": "Auth elementini yangilash shakli"
+        }
+    },
+    "Auth Item Children": {
+        "category": "app",
+        "value": "Auth Item Children",
+        "items": {
+            "en": "Auth Item Children",
+            "ru": "Детский элемент аутентификации",
+            "uz": "Auth Item Bolalar"
+        }
+    },
+    "Auth Item Child Form": {
+        "category": "app",
+        "value": "Auth Item Child Form",
+        "items": {
+            "en": "Auth Item Child Form",
+            "ru": "Дочерняя форма элемента аутентификации",
+            "uz": "Auth elementi uchun shakl"
+        }
+    },
+    "Parent": {
+        "category": "app",
+        "value": "Parent",
+        "items": {
+            "en": "Parent",
+            "ru": "Родитель",
+            "uz": "Ota-ona"
+        }
+    },
+    "Child": {
+        "category": "app",
+        "value": "Child",
+        "items": {
+            "en": "Child",
+            "ru": "Ребенок",
+            "uz": "Bola"
+        }
+    },
+    "Create User": {
+        "category": "app",
+        "value": "Create User",
+        "items": {
+            "en": "Create User",
+            "ru": "Создать пользователя",
+            "uz": "Foydalanuvchi yaratish"
+        }
+    },
+    "Email": {
+        "category": "app",
+        "value": "Email",
+        "items": {
+            "en": "Email",
+            "ru": "Электронная почта",
+            "uz": "Elektron pochta"
+        }
+    },
+    "Password": {
+        "category": "app",
+        "value": "Password",
+        "items": {
+            "en": "Password",
+            "ru": "Пароль",
+            "uz": "Parol"
+        }
+    },
+    "Not Active": {
+        "category": "app",
+        "value": "Not Active",
+        "items": {
+            "en": "Not Active",
+            "ru": "Не активен",
+            "uz": "Faol emas"
+        }
+    },
+    "Active": {
+        "category": "app",
+        "value": "Active",
+        "items": {
+            "en": "Active",
+            "ru": "Активный",
+            "uz": "Faol"
+        }
+    },
+    "Save": {
+        "category": "app",
+        "value": "Save",
+        "items": {
+            "en": "Save",
+            "ru": "Сохранять",
+            "uz": "Saqlash"
+        }
+    },
+    "Profile": {
+        "category": "app",
+        "value": "Profile",
+        "items": {
+            "en": "Profile",
+            "ru": "Профиль",
+            "uz": "Profil"
+        }
+    },
+    "Edit Profile": {
+        "category": "app",
+        "value": "Edit Profile",
+        "items": {
+            "en": "Edit Profile",
+            "ru": "Редактировать профиль",
+            "uz": "Profilni tahrirlash"
+        }
+    },
+    "Info": {
+        "category": "app",
+        "value": "Info",
+        "items": {
+            "en": "Info",
+            "ru": "Информация",
+            "uz": "Ma'lumot"
+        }
+    },
+    "Mobile": {
+        "category": "app",
+        "value": "Mobile",
+        "items": {
+            "en": "Mobile",
+            "ru": "мобильный",
+            "uz": "Mobil"
+        }
+    },
+    "Birthday": {
+        "category": "app",
+        "value": "Birthday",
+        "items": {
+            "en": "Birthday",
+            "ru": "День рождения",
+            "uz": "Tug'ilgan kun"
+        }
+    },
+    "Admin dashboard": {
+        "category": "app",
+        "value": "Admin dashboard",
+        "items": {
+            "en": "Admin dashboard",
+            "ru": "Панель администратора",
+            "uz": "Administrator boshqaruv paneli"
+        }
+    },
+    "Update I18n Source Message: {name}": {
+        "category": "app",
+        "value": "Update I18n Source Message: {name}",
+        "items": {
+            "en": "Update I18n Source Message: {name}",
+            "ru": "Обновить исходное сообщение I18n: {name}",
+            "uz": "I18n manba xabarini yangilash: {name}"
+        }
+    },
+    "Update": {
+        "category": "app",
+        "value": "Update",
+        "items": {
+            "en": "Update",
+            "ru": "Обновлять",
+            "uz": "Yangilash"
+        }
+    },
+    "Update Profile Data": {
+        "category": "app",
+        "value": "Update Profile Data",
+        "items": {
+            "en": "Update Profile Data",
+            "ru": "Обновить данные профиля",
+            "uz": "Profil ma'lumotlarini yangilash"
+        }
+    },
+    "Firstname": {
+        "category": "app",
+        "value": "Firstname",
+        "items": {
+            "en": "Firstname",
+            "ru": "Имя",
+            "uz": "Ism"
+        }
+    },
+    "Lastname": {
+        "category": "app",
+        "value": "Lastname",
+        "items": {
+            "en": "Lastname",
+            "ru": "Фамилия",
+            "uz": "Familiya"
+        }
+    },
+    "Avatar Path": {
+        "category": "app",
+        "value": "Avatar Path",
+        "items": {
+            "en": "Avatar Path",
+            "ru": "Путь аватара",
+            "uz": "Avatar yo'li"
+        }
+    },
+    "Gender": {
+        "category": "app",
+        "value": "Gender",
+        "items": {
+            "en": "Gender",
+            "ru": "Пол",
+            "uz": "Jins"
+        }
+    },
+    "Old password": {
+        "category": "app",
+        "value": "Old password",
+        "items": {
+            "en": "Old password",
+            "ru": "Старый пароль",
+            "uz": "Eski parol"
+        }
+    },
+    "Enter current old password": {
+        "category": "app",
+        "value": "Enter current old password",
+        "items": {
+            "en": "Enter current old password",
+            "ru": "Введите текущий старый пароль",
+            "uz": "Joriy eski parolni kiriting"
+        }
+    },
+    "Passwords do not match": {
+        "category": "app",
+        "value": "Passwords do not match",
+        "items": {
+            "en": "Passwords do not match",
+            "ru": "Пароли не совпадают",
+            "uz": "Parollar mos kelmaydi"
+        }
+    },
+    "Enter new password": {
+        "category": "app",
+        "value": "Enter new password",
+        "items": {
+            "en": "Enter new password",
+            "ru": "Введите новый пароль",
+            "uz": "Yangi parolni kiriting"
+        }
+    },
+    "Enter new confirm password": {
+        "category": "app",
+        "value": "Enter new confirm password",
+        "items": {
+            "en": "Enter new confirm password",
+            "ru": "Введите новый пароль для подтверждения",
+            "uz": "Yangi tasdiqlash parolini kiriting"
+        }
+    },
+    "Change password": {
+        "category": "app",
+        "value": "Change password",
+        "items": {
+            "en": "Change password",
+            "ru": "Изменить пароль",
+            "uz": "Parolni o'zgartirish"
+        }
+    },
+    "'2+2 Double Degree' admission to the program": {
+        "category": "app",
+        "value": "'2+2 Double Degree' admission to the program",
+        "items": {
+            "en": "'2+2 Double Degree' admission to the program",
+            "ru": "Прием на программу «2+2 Double Degree»",
+            "uz": "'2+2 Double Degree' dasturiga qabul"
+        }
+    },
+    "Enter username": {
+        "category": "app",
+        "value": "Enter username",
+        "items": {
+            "en": "Enter username",
+            "ru": "Введите имя пользователя",
+            "uz": "Foydalanuvchi nomini kiriting"
+        }
+    },
+    "Forgot password?": {
+        "category": "app",
+        "value": "Forgot password?",
+        "items": {
+            "en": "Forgot password?",
+            "ru": "Забыли пароль?",
+            "uz": "Parolni unutdingizmi?"
+        }
+    },
+    "Enter password": {
+        "category": "app",
+        "value": "Enter password",
+        "items": {
+            "en": "Enter password",
+            "ru": "Введите пароль",
+            "uz": "Parolni kiriting"
+        }
+    },
+    "Sign In": {
+        "category": "app",
+        "value": "Sign In",
+        "items": {
+            "en": "Sign In",
+            "ru": "Войти",
+            "uz": "Tizimga kirish"
+        }
+    },
+    "Don't have an account ?": {
+        "category": "app",
+        "value": "Don't have an account ?",
+        "items": {
+            "en": "Don't have an account ?",
+            "ru": "У вас нет учетной записи?",
+            "uz": "Hisobingiz yo'qmi?"
+        }
+    },
+    "Signup": {
+        "category": "app",
+        "value": "Signup",
+        "items": {
+            "en": "Signup",
+            "ru": "Зарегистрироваться",
+            "uz": "Ro'yxatdan o'tish"
+        }
+    },
+    "Login with Hemis": {
+        "category": "app",
+        "value": "Login with Hemis",
+        "items": {
+            "en": "Login with Hemis",
+            "ru": "Войти через Hemis",
+            "uz": "Hemis bilan tizimga kiring"
+        }
+    },
+    "Hemis ID": {
+        "category": "app",
+        "value": "Hemis ID",
+        "items": {
+            "en": "Hemis ID",
+            "ru": "Хемис ID",
+            "uz": "Hemis ID"
+        }
+    },
+    "Hemis Password": {
+        "category": "app",
+        "value": "Hemis Password",
+        "items": {
+            "en": "Hemis Password",
+            "ru": "Пароль Хемис",
+            "uz": "Hemis paroli"
+        }
+    },
+    "Enter email": {
+        "category": "app",
+        "value": "Enter email",
+        "items": {
+            "en": "Enter email",
+            "ru": "Введите адрес электронной почты",
+            "uz": "Elektron pochtani kiriting"
+        }
+    },
+    "This username has already been taken.": {
+        "category": "app",
+        "value": "This username has already been taken.",
+        "items": {
+            "en": "This username has already been taken.",
+            "ru": "Это имя пользователя уже занято.",
+            "uz": "Bu foydalanuvchi nomi allaqachon olingan."
+        }
+    },
+    "This email address has already been taken.": {
+        "category": "app",
+        "value": "This email address has already been taken.",
+        "items": {
+            "en": "This email address has already been taken.",
+            "ru": "Этот адрес электронной почты уже занят.",
+            "uz": "Bu elektron pochta manzili allaqachon olingan."
+        }
+    },
+    "Confirm Password": {
+        "category": "app",
+        "value": "Confirm Password",
+        "items": {
+            "en": "Confirm Password",
+            "ru": "Подтвердите пароль",
+            "uz": "Parolni tasdiqlang"
+        }
+    },
+    "Resend verification email?": {
+        "category": "app",
+        "value": "Resend verification email?",
+        "items": {
+            "en": "Resend verification email?",
+            "ru": "Выслать повторно письмо для подтверждения?",
+            "uz": "Tasdiqlash xati qayta yuborilsinmi?"
+        }
+    },
+    "Enter password confirm": {
+        "category": "app",
+        "value": "Enter password confirm",
+        "items": {
+            "en": "Enter password confirm",
+            "ru": "Введите пароль, подтвердите",
+            "uz": "Parolni kiriting tasdiqlang"
+        }
+    },
+    "Sign Up": {
+        "category": "app",
+        "value": "Sign Up",
+        "items": {
+            "en": "Sign Up",
+            "ru": "Зарегистрироваться",
+            "uz": "Ro'yxatdan o'tish"
+        }
+    },
+    "Already have an account ?": {
+        "category": "app",
+        "value": "Already have an account ?",
+        "items": {
+            "en": "Already have an account ?",
+            "ru": "Уже есть аккаунт?",
+            "uz": "Hisobingiz bormi?"
+        }
+    },
+    "Signin": {
+        "category": "app",
+        "value": "Signin",
+        "items": {
+            "en": "sign",
+            "ru": "знак",
+            "uz": "belgisi"
+        }
+    },
+    "Resend verification email": {
+        "category": "app",
+        "value": "Resend verification email",
+        "items": {
+            "en": "Resend verification email",
+            "ru": "Выслать повторно письмо для подтверждения",
+            "uz": "Tasdiqlash xatini qayta yuboring"
+        }
+    },
+    "Please fill out your email. A verification email will be sent there.": {
+        "category": "app",
+        "value": "Please fill out your email. A verification email will be sent there.",
+        "items": {
+            "en": "Please fill out your email. A verification email will be sent there.",
+            "ru": "Пожалуйста, заполните свой адрес электронной почты. \nТуда будет отправлено письмо с подтверждением.",
+            "uz": "Iltimos, elektron pochtangizni to'ldiring. \nTasdiqlash xati u yerga yuboriladi."
+        }
+    },
+    "The above error occurred while the Web server was processing your request.": {
+        "category": "app",
+        "value": "The above error occurred while the Web server was processing your request.",
+        "items": {
+            "en": "The above error occurred while the Web server was processing your request.",
+            "ru": "Вышеуказанная ошибка произошла во время обработки вашего запроса веб-сервером.",
+            "uz": "Yuqoridagi xatolik veb-server sizning so'rovingizga ishlov berayotganda yuz berdi."
+        }
+    },
+    "Please contact us if you think this is a server error. Thank you.": {
+        "category": "app",
+        "value": "Please contact us if you think this is a server error. Thank you.",
+        "items": {
+            "en": "Please contact us if you think this is a server error. Thank you.",
+            "ru": "Пожалуйста, свяжитесь с нами, если вы считаете, что это ошибка сервера. \nСпасибо.",
+            "uz": "Agar buni server xatosi deb hisoblasangiz, biz bilan bog'laning. \nRahmat."
+        }
+    },
+    "Request password reset": {
+        "category": "app",
+        "value": "Request password reset",
+        "items": {
+            "en": "Request password reset",
+            "ru": "Запросить сброс пароля",
+            "uz": "Parolni tiklashni talab qiling"
+        }
+    },
+    "Please fill out your email. A link to reset password will be sent there.": {
+        "category": "app",
+        "value": "Please fill out your email. A link to reset password will be sent there.",
+        "items": {
+            "en": "Please fill out your email. A link to reset password will be sent there.",
+            "ru": "Пожалуйста, заполните свой адрес электронной почты. \nТуда будет отправлена ​​ссылка для сброса пароля.",
+            "uz": "Iltimos, elektron pochtangizni to'ldiring. \nU erda parolni tiklash uchun havola yuboriladi."
+        }
+    },
+    "Content": {
+        "category": "app",
+        "value": "Content",
+        "items": {
+            "en": "Content",
+            "ru": "Содержание",
+            "uz": "Tarkib"
+        }
+    },
+    "Pages": {
+        "category": "app",
+        "value": "Pages",
+        "items": {
+            "en": "Pages",
+            "ru": "Страницы",
+            "uz": "Sahifalar"
+        }
+    },
+    "Categories": {
+        "category": "app",
+        "value": "Categories",
+        "items": {
+            "en": "Categories",
+            "ru": "Категории",
+            "uz": "Kategoriyalar"
+        }
+    },
+    "Tags": {
+        "category": "app",
+        "value": "Tags",
+        "items": {
+            "en": "Tags",
+            "ru": "Теги",
+            "uz": "Teglar"
+        }
+    },
+    "Posts": {
+        "category": "app",
+        "value": "Posts",
+        "items": {
+            "en": "Posts",
+            "ru": "Сообщения",
+            "uz": "Xabarlar"
+        }
+    },
+    "Landing Elements": {
+        "category": "app",
+        "value": "Landing Elements",
+        "items": {
+            "en": "Landing Elements",
+            "ru": "Посадочные элементы",
+            "uz": "Uchish elementlari"
+        }
+    },
+    "Menu": {
+        "category": "app",
+        "value": "Menu",
+        "items": {
+            "en": "Menu",
+            "ru": "Меню",
+            "uz": "Menyu"
+        }
+    },
+    "Site Config": {
+        "category": "app",
+        "value": "Site Config",
+        "items": {
+            "en": "Site Config",
+            "ru": "Конфигурация сайта",
+            "uz": "Sayt konfiguratsiyasi"
+        }
+    },
+    "Header Title": {
+        "category": "app",
+        "value": "Header Title",
+        "items": {
+            "en": "Header Title",
+            "ru": "Название заголовка",
+            "uz": "Sarlavha sarlavhasi"
+        }
+    },
+    "Product": {
+        "category": "app",
+        "value": "Product",
+        "items": {
+            "en": "Product",
+            "ru": "Продукт",
+            "uz": "Mahsulot"
+        }
+    },
+    "Services": {
+        "category": "app",
+        "value": "Services",
+        "items": {
+            "en": "Services",
+            "ru": "Услуги",
+            "uz": "Xizmatlar"
+        }
+    },
+    "Partners": {
+        "category": "app",
+        "value": "Partners",
+        "items": {
+            "en": "Partners",
+            "ru": "Партнеры",
+            "uz": "Hamkorlar"
+        }
+    },
+    "Process": {
+        "category": "app",
+        "value": "Process",
+        "items": {
+            "en": "Process",
+            "ru": "Процесс",
+            "uz": "Jarayon"
+        }
+    },
+    "Team": {
+        "category": "app",
+        "value": "Team",
+        "items": {
+            "en": "Team",
+            "ru": "Команда",
+            "uz": "Jamoa"
+        }
+    },
+    "Opinions": {
+        "category": "app",
+        "value": "Opinions",
+        "items": {
+            "en": "Opinions",
+            "ru": "Мнения",
+            "uz": "Fikrlar"
+        }
+    },
+    "Project": {
+        "category": "app",
+        "value": "Project",
+        "items": {
+            "en": "Project",
+            "ru": "Проект",
+            "uz": "Loyiha"
+        }
+    },
+    "Statistic": {
+        "category": "app",
+        "value": "Statistic",
+        "items": {
+            "en": "Statistic",
+            "ru": "Статистика",
+            "uz": "Statistika"
+        }
+    },
+    "Question": {
+        "category": "app",
+        "value": "Question",
+        "items": {
+            "en": "Question",
+            "ru": "Вопрос",
+            "uz": "Savol"
+        }
+    },
+    "Contact": {
+        "category": "app",
+        "value": "Contact",
+        "items": {
+            "en": "Contact",
+            "ru": "Контакт",
+            "uz": "Aloqa"
+        }
+    },
+    "Title": {
+        "category": "app",
+        "value": "Title",
+        "items": {
+            "en": "Title",
+            "ru": "Заголовок",
+            "uz": "Sarlavha"
+        }
+    },
+    "Slug": {
+        "category": "app",
+        "value": "Slug",
+        "items": {
+            "en": "Slug",
+            "ru": "Слизень",
+            "uz": "Slug"
+        }
+    },
+    "Sidebar": {
+        "category": "app",
+        "value": "Sidebar",
+        "items": {
+            "en": "Sidebar",
+            "ru": "Боковая панель",
+            "uz": "Yon panel"
+        }
+    },
+    "Post Categories": {
+        "category": "app",
+        "value": "Post Categories",
+        "items": {
+            "en": "Post Categories",
+            "ru": "Категории сообщений",
+            "uz": "Post toifalari"
+        }
+    },
+    "Post Category Form": {
+        "category": "app",
+        "value": "Post Category Form",
+        "items": {
+            "en": "Post Category Form",
+            "ru": "Форма категории сообщения",
+            "uz": "Post toifasi shakli"
+        }
+    },
+    "Image": {
+        "category": "app",
+        "value": "Image",
+        "items": {
+            "en": "Image",
+            "ru": "Изображение",
+            "uz": "Rasm"
+        }
+    },
+    "Sub Text": {
+        "category": "app",
+        "value": "Sub Text",
+        "items": {
+            "en": "Sub Text",
+            "ru": "Подтекст",
+            "uz": "Pastki matn"
+        }
+    },
+    "Post Category Update Form": {
+        "category": "app",
+        "value": "Post Category Update Form",
+        "items": {
+            "en": "Post Category Update Form",
+            "ru": "Форма обновления категории публикации",
+            "uz": "Post kategoriyasini yangilash shakli"
+        }
+    },
+    "Post Tags": {
+        "category": "app",
+        "value": "Post Tags",
+        "items": {
+            "en": "Post Tags",
+            "ru": "Теги сообщений",
+            "uz": "Post teglari"
+        }
+    },
+    "Main Home Page Config": {
+        "category": "app",
+        "value": "Main Home Page Config",
+        "items": {
+            "en": "Main Home Page Config",
+            "ru": "Конфигурация главной домашней страницы",
+            "uz": "Bosh sahifa konfiguratsiyasi"
+        }
+    },
+    "Landing Element": {
+        "category": "app",
+        "value": "Landing Element",
+        "items": {
+            "en": "Landing Element",
+            "ru": "Посадочный элемент",
+            "uz": "Uchish elementi"
+        }
+    },
+    "Home Page Title": {
+        "category": "app",
+        "value": "Home Page Title",
+        "items": {
+            "en": "Home Page Title",
+            "ru": "Название домашней страницы",
+            "uz": "Bosh sahifa sarlavhasi"
+        }
+    },
+    "Background": {
+        "category": "app",
+        "value": "Background",
+        "items": {
+            "en": "Background",
+            "ru": "Фон",
+            "uz": "Fon"
+        }
+    },
+    "Order": {
+        "category": "app",
+        "value": "Order",
+        "items": {
+            "en": "Order",
+            "ru": "Заказ",
+            "uz": "Buyurtma"
+        }
+    },
+    "Icon": {
+        "category": "app",
+        "value": "Icon",
+        "items": {
+            "en": "Icon",
+            "ru": "Икона",
+            "uz": "Belgi"
+        }
+    },
+    "Url": {
+        "category": "app",
+        "value": "Url",
+        "items": {
+            "en": "Url",
+            "ru": "URL",
+            "uz": "Url"
+        }
+    },
+    "Button": {
+        "category": "app",
+        "value": "Button",
+        "items": {
+            "en": "Button",
+            "ru": "Кнопка",
+            "uz": "Tugma"
+        }
+    },
+    "Button Title": {
+        "category": "app",
+        "value": "Button Title",
+        "items": {
+            "en": "Button Title",
+            "ru": "Название кнопки",
+            "uz": "Tugma sarlavhasi"
+        }
+    },
+    "Widget Config": {
+        "category": "app",
+        "value": "Widget Config",
+        "items": {
+            "en": "Widget Config",
+            "ru": "Конфигурация виджета",
+            "uz": "Vidjet konfiguratsiyasi"
+        }
+    },
+    "Create Title settings": {
+        "category": "app",
+        "value": "Create Title settings",
+        "items": {
+            "en": "Create Title settings",
+            "ru": "Создать настройки заголовка",
+            "uz": "Sarlavha sozlamalarini yarating"
+        }
+    },
+    "Team Section Config": {
+        "category": "app",
+        "value": "Team Section Config",
+        "items": {
+            "en": "Team Section Config",
+            "ru": "Конфигурация раздела команды",
+            "uz": "Jamoa bo'limi konfiguratsiyasi"
+        }
+    },
+    "Question Title Config": {
+        "category": "app",
+        "value": "Question Title Config",
+        "items": {
+            "en": "Question Title Config",
+            "ru": "Конфигурация заголовка вопроса",
+            "uz": "Savol sarlavhasi konfiguratsiyasi"
+        }
+    },
+    "Product Config": {
+        "category": "app",
+        "value": "Product Config",
+        "items": {
+            "en": "Product Config",
+            "ru": "Конфигурация продукта",
+            "uz": "Mahsulot konfiguratsiyasi"
+        }
+    },
+    "Service Title Settings": {
+        "category": "app",
+        "value": "Service Title Settings",
+        "items": {
+            "en": "Service Title Settings",
+            "ru": "Настройки названия услуги",
+            "uz": "Xizmat nomi sozlamalari"
+        }
+    },
+    "Process Config": {
+        "category": "app",
+        "value": "Process Config",
+        "items": {
+            "en": "Process Config",
+            "ru": "Конфигурация процесса",
+            "uz": "Jarayon konfiguratsiyasi"
+        }
+    },
+    "Statistic Section": {
+        "category": "app",
+        "value": "Statistic Section",
+        "items": {
+            "en": "Statistic Section",
+            "ru": "Статистический раздел",
+            "uz": "Statistik bo'lim"
+        }
+    },
+    "Opinion Section": {
+        "category": "app",
+        "value": "Opinion Section",
+        "items": {
+            "en": "Opinion Section",
+            "ru": "Раздел мнений",
+            "uz": "Fikrlar bo'limi"
+        }
+    },
+    "Logo": {
+        "category": "app",
+        "value": "Logo",
+        "items": {
+            "en": "Logo",
+            "ru": "Логотип",
+            "uz": "Logotip"
+        }
+    },
+    "Add Product": {
+        "category": "app",
+        "value": "Add Product",
+        "items": {
+            "en": "Add Product",
+            "ru": "Добавить продукт",
+            "uz": "Mahsulot qo'shish"
+        }
+    },
+    "Service Form": {
+        "category": "app",
+        "value": "Service Form",
+        "items": {
+            "en": "Service Form",
+            "ru": "Форма обслуживания",
+            "uz": "Xizmat shakli"
+        }
+    },
+    "Service Update Form": {
+        "category": "app",
+        "value": "Service Update Form",
+        "items": {
+            "en": "Service Update Form",
+            "ru": "Форма обновления услуги",
+            "uz": "Xizmatni yangilash shakli"
+        }
+    },
+    "Partner Form": {
+        "category": "app",
+        "value": "Partner Form",
+        "items": {
+            "en": "Partner Form",
+            "ru": "Партнерская форма",
+            "uz": "Hamkorlik shakli"
+        }
+    },
+    "Partner Update Form": {
+        "category": "app",
+        "value": "Partner Update Form",
+        "items": {
+            "en": "Partner Update Form",
+            "ru": "Форма обновления партнера",
+            "uz": "Hamkor yangilash shakli"
+        }
+    },
+    "Process Form": {
+        "category": "app",
+        "value": "Process Form",
+        "items": {
+            "en": "Process Form",
+            "ru": "Форма процесса",
+            "uz": "Jarayon shakli"
+        }
+    },
+    "Process Update Form": {
+        "category": "app",
+        "value": "Process Update Form",
+        "items": {
+            "en": "Process Update Form",
+            "ru": "Форма обновления процесса",
+            "uz": "Jarayonni yangilash shakli"
+        }
+    },
+    "Team members": {
+        "category": "app",
+        "value": "Team members",
+        "items": {
+            "en": "Team members",
+            "ru": "Члены команды",
+            "uz": "Jamoa a'zolari"
+        }
+    },
+    "Add Members": {
+        "category": "app",
+        "value": "Add Members",
+        "items": {
+            "en": "Add Members",
+            "ru": "Добавить участников",
+            "uz": "A'zolar qo'shing"
+        }
+    },
+    " Delete": {
+        "category": "app",
+        "value": " Delete",
+        "items": {
+            "en": "Delete",
+            "ru": "Удалить",
+            "uz": "Oʻchirish"
+        }
+    },
+    "Add Opinion": {
+        "category": "app",
+        "value": "Add Opinion",
+        "items": {
+            "en": "Add Opinion",
+            "ru": "Добавить мнение",
+            "uz": "Fikr qo'shing"
+        }
+    },
+    "Project Config": {
+        "category": "app",
+        "value": "Project Config",
+        "items": {
+            "en": "Project Config",
+            "ru": "Конфигурация проекта",
+            "uz": "Loyiha konfiguratsiyasi"
+        }
+    },
+    "Design": {
+        "category": "app",
+        "value": "Design",
+        "items": {
+            "en": "Design",
+            "ru": "Дизайн",
+            "uz": "Dizayn"
+        }
+    },
+    "Structure": {
+        "category": "app",
+        "value": "Structure",
+        "items": {
+            "en": "Structure",
+            "ru": "Состав",
+            "uz": "Tuzilishi"
+        }
+    },
+    "Statistic Form": {
+        "category": "app",
+        "value": "Statistic Form",
+        "items": {
+            "en": "Statistic Form",
+            "ru": "Статистическая форма",
+            "uz": "Statistik shakl"
+        }
+    },
+    "Statistic Update Form": {
+        "category": "app",
+        "value": "Statistic Update Form",
+        "items": {
+            "en": "Statistic Update Form",
+            "ru": "Форма обновления статистики",
+            "uz": "Statistikani yangilash shakli"
+        }
+    },
+    "Questions": {
+        "category": "app",
+        "value": "Questions",
+        "items": {
+            "en": "Questions",
+            "ru": "Вопросы",
+            "uz": "Savollar"
+        }
+    },
+    "Question Form": {
+        "category": "app",
+        "value": "Question Form",
+        "items": {
+            "en": "Question Form",
+            "ru": "Форма вопроса",
+            "uz": "Savol shakli"
+        }
+    },
+    "Question Update Form": {
+        "category": "app",
+        "value": "Question Update Form",
+        "items": {
+            "en": "Question Update Form",
+            "ru": "Форма обновления вопроса",
+            "uz": "Savolni yangilash shakli"
+        }
+    },
+    "Contact Config": {
+        "category": "app",
+        "value": "Contact Config",
+        "items": {
+            "en": "Contact Config",
+            "ru": "Контактная конфигурация",
+            "uz": "Kontakt konfiguratsiyasi"
+        }
+    },
+    "Work Order": {
+        "category": "app",
+        "value": "Work Order",
+        "items": {
+            "en": "Work Order",
+            "ru": "Заказ на работу",
+            "uz": "Ish tartibi"
+        }
+    },
+    "Auth Item Child Update Form": {
+        "category": "app",
+        "value": "Auth Item Child Update Form",
+        "items": {
+            "en": "Auth Item Child Update Form",
+            "ru": "Форма обновления дочернего элемента аутентификации",
+            "uz": "Auth elementi uchun yangilanish shakli"
+        }
+    },
+    "Phone number": {
+        "category": "app",
+        "value": "Phone number",
+        "items": {
+            "en": "Phone number",
+            "ru": "Номер телефона",
+            "uz": "Telefon raqami"
+        }
+    },
+    "Saved": {
+        "category": "app",
+        "value": "Saved",
+        "items": {
+            "en": "Saved",
+            "ru": "Сохранено",
+            "uz": "Saqlangan"
+        }
+    },
+    "Update User: {name}": {
+        "category": "app",
+        "value": "Update User: {name}",
+        "items": {
+            "en": "Update User: {name}",
+            "ru": "Обновить пользователя: {name}",
+            "uz": "Foydalanuvchini yangilash: {name}"
+        }
+    },
+    "Delete": {
+        "category": "app",
+        "value": "Delete",
+        "items": {
+            "en": "Delete",
+            "ru": "Удалить",
+            "uz": "Oʻchirish"
+        }
+    },
+    "Are you sure you want to delete this item?": {
+        "category": "app",
+        "value": "Are you sure you want to delete this item?",
+        "items": {
+            "en": "Are you sure you want to delete this item?",
+            "ru": "Вы уверены, что хотите удалить этот элемент?",
+            "uz": "Haqiqatan ham bu elementni oʻchirib tashlamoqchimisiz?"
+        }
+    },
+    "Create Page": {
+        "category": "app",
+        "value": "Create Page",
+        "items": {
+            "en": "Create Page",
+            "ru": "Создать страницу",
+            "uz": "Sahifa yaratish"
+        }
+    },
+    "Create Post": {
+        "category": "app",
+        "value": "Create Post",
+        "items": {
+            "en": "Create Post",
+            "ru": "Создать сообщение",
+            "uz": "Post yaratish"
+        }
+    },
+    "View Count": {
+        "category": "app",
+        "value": "View Count",
+        "items": {
+            "en": "View Count",
+            "ru": "Количество просмотров",
+            "uz": "Ko'rishlar soni"
+        }
+    },
+    "Publish At": {
+        "category": "app",
+        "value": "Publish At",
+        "items": {
+            "en": "Publish At",
+            "ru": "Опубликовать на",
+            "uz": "nashr qilish"
+        }
+    },
+    "Menus": {
+        "category": "app",
+        "value": "Menus",
+        "items": {
+            "en": "Menus",
+            "ru": "Меню",
+            "uz": "Menyular"
+        }
+    },
+    "Create Menu": {
+        "category": "app",
+        "value": "Create Menu",
+        "items": {
+            "en": "Create Menu",
+            "ru": "Создать меню",
+            "uz": "Menyu yaratish"
+        }
+    },
+    "Parent ID": {
+        "category": "app",
+        "value": "Parent ID",
+        "items": {
+            "en": "Parent ID",
+            "ru": "Идентификатор родителя",
+            "uz": "Ota-ona ID"
+        }
+    },
+    "Position Menu": {
+        "category": "app",
+        "value": "Position Menu",
+        "items": {
+            "en": "Position Menu",
+            "ru": "Меню позиции",
+            "uz": "Joylashuv menyusi"
+        }
+    },
+    "Label Position": {
+        "category": "app",
+        "value": "Label Position",
+        "items": {
+            "en": "Label Position",
+            "ru": "Положение метки",
+            "uz": "Yorliq pozitsiyasi"
+        }
+    },
+    "Item": {
+        "category": "app",
+        "value": "Item",
+        "items": {
+            "en": "Item",
+            "ru": "Элемент",
+            "uz": "Element"
+        }
+    },
+    "Main menu information": {
+        "category": "app",
+        "value": "Main menu information",
+        "items": {
+            "en": "Main menu information",
+            "ru": "Информация в главном меню",
+            "uz": "Asosiy menyu ma'lumotlari"
+        }
+    },
+    "Other settings": {
+        "category": "app",
+        "value": "Other settings",
+        "items": {
+            "en": "Other settings",
+            "ru": "Другие настройки",
+            "uz": "Boshqa sozlamalar"
+        }
+    },
+    "Key": {
+        "category": "app",
+        "value": "Key",
+        "items": {
+            "en": "Key",
+            "ru": "Ключ",
+            "uz": "Kalit"
+        }
+    },
+    "Value": {
+        "category": "app",
+        "value": "Value",
+        "items": {
+            "en": "Value",
+            "ru": "Ценить",
+            "uz": "Qiymat"
+        }
+    },
+    "Files": {
+        "category": "app",
+        "value": "Files",
+        "items": {
+            "en": "Files",
+            "ru": "Файлы",
+            "uz": "Fayllar"
+        }
+    },
+    "Opinion Config": {
+        "category": "app",
+        "value": "Opinion Config",
+        "items": {
+            "en": "Opinion Config",
+            "ru": "Конфигурация мнений",
+            "uz": "Fikr konfiguratsiyasi"
+        }
+    },
+    "Set Webhook": {
+        "category": "app",
+        "value": "Set Webhook",
+        "items": {
+            "en": "Set Webhook",
+            "ru": "Установить вебхук",
+            "uz": "Webhook-ni o'rnating"
+        }
+    },
+    "Are you sure you want to set web hook bot?": {
+        "category": "app",
+        "value": "Are you sure you want to set web hook bot?",
+        "items": {
+            "en": "Are you sure you want to set web hook bot?",
+            "ru": "Вы уверены, что хотите установить бота веб-перехватчика?",
+            "uz": "Haqiqatan ham web hook botni o'rnatmoqchimisiz?"
+        }
+    },
+    "Update Telegram Company: {name}": {
+        "category": "app",
+        "value": "Update Telegram Company: {name}",
+        "items": {
+            "en": "Update Telegram Company: {name}",
+            "ru": "Обновить компанию Telegram: {name}",
+            "uz": "Telegram kompaniyasini yangilang: {name}"
+        }
+    },
+    "Main": {
+        "category": "app",
+        "value": "Main",
+        "items": {
+            "en": "Main",
+            "ru": "Основной",
+            "uz": "Asosiy"
+        }
+    },
+    "About": {
+        "category": "app",
+        "value": "About",
+        "items": {
+            "en": "About",
+            "ru": "О",
+            "uz": "Haqida"
+        }
+    },
+    "Subject": {
+        "category": "app",
+        "value": "Subject",
+        "items": {
+            "en": "Subject",
+            "ru": "Предмет",
+            "uz": "Fan"
+        }
+    },
+    "Test": {
+        "category": "app",
+        "value": "Test",
+        "items": {
+            "en": "Test",
+            "ru": "Тест",
+            "uz": "Sinov"
+        }
+    },
+    "Subject form": {
+        "category": "app",
+        "value": "Subject form",
+        "items": {
+            "en": "Subject form",
+            "ru": "Тематическая форма",
+            "uz": "Mavzu shakli"
+        }
+    },
+    "Test form": {
+        "category": "app",
+        "value": "Test form",
+        "items": {
+            "en": "Test form",
+            "ru": "Тестовая форма",
+            "uz": "Test shakli"
+        }
+    },
+    "Subjects": {
+        "category": "app",
+        "value": "Subjects",
+        "items": {
+            "en": "Subjects",
+            "ru": "Науки",
+            "uz": "Fanlar"
+        }
+    },
+    "Create Question": {
+        "category": "app",
+        "value": "Create Question",
+        "items": {
+            "en": "Create Question",
+            "ru": "Создать вопрос",
+            "uz": "Savol yaratish"
+        }
+    },
+    "Subject ID": {
+        "category": "app",
+        "value": "Subject ID",
+        "items": {
+            "en": "Subject ID",
+            "ru": "Fan субъекта",
+            "uz": "Fan identifikatori"
+        }
+    },
+    "Test ID": {
+        "category": "app",
+        "value": "Test ID",
+        "items": {
+            "en": "Test ID",
+            "ru": "Идентификатор теста",
+            "uz": "Sinov identifikatori"
+        }
+    },
+    "Text": {
+        "category": "app",
+        "value": "Text",
+        "items": {
+            "en": "Question text",
+            "ru": "Текст вопроса",
+            "uz": "Savol matni"
+        }
+    },
+    "Ball": {
+        "category": "app",
+        "value": "Ball",
+        "items": {
+            "en": "Ball",
+            "ru": "Бал",
+            "uz": "Bal"
+        }
+    },
+    "Tests": {
+        "category": "app",
+        "value": "Tests",
+        "items": {
+            "en": "Tests",
+            "ru": "Тесты",
+            "uz": "Testlar"
+        }
+    },
+    "Correct": {
+        "category": "app",
+        "value": "Correct",
+        "items": {
+            "en": "Correct",
+            "ru": "Правильный",
+            "uz": "To'g'ri"
+        }
+    },
+    "Update Question: {name}": {
+        "category": "app",
+        "value": "Update Question: {name}",
+        "items": {
+            "en": "Update Question: {name}",
+            "ru": "Обновление вопроса: {name}",
+            "uz": "Savolni yangilash: {name}"
+        }
+    },
+    "Update Test: {name}": {
+        "category": "app",
+        "value": "Update Test: {name}",
+        "items": {
+            "en": "Update Test: {name}",
+            "ru": "Тест обновления: {name}",
+            "uz": "Testni yangilash: {name}"
+        }
+    },
+    "Question count": {
+        "category": "app",
+        "value": "Question count",
+        "items": {
+            "en": "Question count",
+            "ru": "Количество вопросов",
+            "uz": "Savollar soni"
+        }
+    },
+    "Enter Question": {
+        "category": "app",
+        "value": "Enter Question",
+        "items": {
+            "en": "Enter Question",
+            "ru": "Введите вопрос",
+            "uz": "Savolni kiriting"
+        }
+    },
+    "Create Test": {
+        "category": "app",
+        "value": "Create Test",
+        "items": {
+            "en": "Create Test",
+            "ru": "Создать тест",
+            "uz": "Test yaratish"
+        }
+    },
+    "Answers": {
+        "category": "app",
+        "value": "Answers",
+        "items": {
+            "en": "Answers",
+            "ru": "Ответы",
+            "uz": "Javoblar"
+        }
+    },
+    "Question view": {
+        "category": "app",
+        "value": "Question view",
+        "items": {
+            "en": "Question view",
+            "ru": "Просмотр вопросов",
+            "uz": "Savol ko'rinishi"
+        }
+    },
+    "Question ID": {
+        "category": "app",
+        "value": "Question ID",
+        "items": {
+            "en": "Question ID",
+            "ru": "Идентификатор вопроса",
+            "uz": "Savol identifikatori"
+        }
+    },
+    "Correct Answer": {
+        "category": "app",
+        "value": "Correct Answer",
+        "items": {
+            "en": "Correct Answer",
+            "ru": "Правильный ответ",
+            "uz": "To'g'ri javob"
+        }
+    },
+    "Features": {
+        "category": "app",
+        "value": "Features",
+        "items": {
+            "en": "Features",
+            "ru": "Функции",
+            "uz": "Xususiyatlari"
+        }
+    },
+    "Plans": {
+        "category": "app",
+        "value": "Plans",
+        "items": {
+            "en": "Plans",
+            "ru": "Планы",
+            "uz": "Rejalar"
+        }
+    },
+    "Reviews": {
+        "category": "app",
+        "value": "Reviews",
+        "items": {
+            "en": "Reviews",
+            "ru": "Отзывы",
+            "uz": "Sharhlar"
+        }
+    },
+    "Attempts": {
+        "category": "app",
+        "value": "Attempts",
+        "items": {
+            "en": "Attempts",
+            "ru": "Попытки",
+            "uz": "Urinishlar"
+        }
+    },
+    "Take an exam": {
+        "category": "app",
+        "value": "Take an exam",
+        "items": {
+            "en": "Take an exam",
+            "ru": "Сдавать экзамен",
+            "uz": "Imtihon topshiring"
+        }
+    },
+    "My results": {
+        "category": "app",
+        "value": "My results",
+        "items": {
+            "en": "My results",
+            "ru": "Мои результаты",
+            "uz": "Mening natijalarim"
+        }
+    },
+    "Count": {
+        "category": "app",
+        "value": "Count",
+        "items": {
+            "en": "Count",
+            "ru": "Считать",
+            "uz": "Hisoblash"
+        }
+    },
+    "Selected Tests": {
+        "category": "app",
+        "value": "Selected Tests",
+        "items": {
+            "en": "Selected Tests",
+            "ru": "Избранные тесты",
+            "uz": "Tanlangan testlar"
+        }
+    },
+    "User test form": {
+        "category": "app",
+        "value": "User test form",
+        "items": {
+            "en": "User test form",
+            "ru": "Пользовательская тестовая форма",
+            "uz": "Foydalanuvchi test shakli"
+        }
+    },
+    "Please enter correct answer": {
+        "category": "app",
+        "value": "Please enter correct answer",
+        "items": {
+            "en": "Please enter correct answer",
+            "ru": "Пожалуйста, введите правильный ответ",
+            "uz": "Iltimos, to'g'ri javobni kiriting"
+        }
+    },
+    "The requested page does not exist.": {
+        "category": "app",
+        "value": "The requested page does not exist.",
+        "items": {
+            "en": "The requested page does not exist.",
+            "ru": "Запрошенная страница не существует.",
+            "uz": "Talab qilingan sahifa mavjud emas."
+        }
+    },
+    "User ID": {
+        "category": "app",
+        "value": "User ID",
+        "items": {
+            "en": "User ID",
+            "ru": "ID пользователя",
+            "uz": "Foydalanuvchi IDsi"
+        }
+    },
+    "Selected Test ID": {
+        "category": "app",
+        "value": "Selected Test ID",
+        "items": {
+            "en": "Selected Test ID",
+            "ru": "Выбранный идентификатор теста",
+            "uz": "Tanlangan test identifikatori"
+        }
+    },
+    "Total Ball": {
+        "category": "app",
+        "value": "Total Ball",
+        "items": {
+            "en": "Total Ball",
+            "ru": "Тотал очков",
+            "uz": "Umumiy bal"
+        }
+    },
+    "Solve Ball": {
+        "category": "app",
+        "value": "Solve Ball",
+        "items": {
+            "en": "Total points scored",
+            "ru": "Всего набранных очков",
+            "uz": "To'plangan jami ball"
+        }
+    },
+    "Total Count": {
+        "category": "app",
+        "value": "Total Count",
+        "items": {
+            "en": "Total Count",
+            "ru": "Общее количество",
+            "uz": "Umumiy soni"
+        }
+    },
+    "Solve Count": {
+        "category": "app",
+        "value": "Solve Count",
+        "items": {
+            "en": "Solve Count",
+            "ru": "Решить счет",
+            "uz": "Hisobni yechish"
+        }
+    },
+    "Expired At": {
+        "category": "app",
+        "value": "Expired At",
+        "items": {
+            "en": "Expired At",
+            "ru": "Срок действия истек в",
+            "uz": "Muddati tugagan"
+        }
+    },
+    "Success": {
+        "category": "app",
+        "value": "Success",
+        "items": {
+            "en": "Success",
+            "ru": "Успех",
+            "uz": "Muvaffaqiyat"
+        }
+    },
+    "Failed": {
+        "category": "app",
+        "value": "Failed",
+        "items": {
+            "en": "Failed",
+            "ru": "Неуспешный",
+            "uz": "Muvaffaqiyatsiz"
+        }
+    },
+    "Selected Test": {
+        "category": "app",
+        "value": "Selected Test",
+        "items": {
+            "en": "Selected Test",
+            "ru": "Выбранный тест",
+            "uz": "Tanlangan test"
+        }
+    },
+    "Create Subject": {
+        "category": "app",
+        "value": "Create Subject",
+        "items": {
+            "en": "Create Subject",
+            "ru": "Создать тему",
+            "uz": "Mavzu yaratish"
+        }
+    },
+    "Welcome Back !": {
+        "category": "app",
+        "value": "Welcome Back !",
+        "items": {
+            "en": "Welcome Back !",
+            "ru": "Добро пожаловать !",
+            "uz": "Qaytib kelganingizdan xursandmiz !"
+        }
+    },
+    "Sign in to continue.": {
+        "category": "app",
+        "value": "Sign in to continue.",
+        "items": {
+            "en": "Sign in to continue.",
+            "ru": "Войдите, чтобы продолжить.",
+            "uz": "Davom etish uchun tizimga kiring."
+        }
+    },
+    "Sign In with": {
+        "category": "app",
+        "value": "Sign In with",
+        "items": {
+            "en": "Sign In with",
+            "ru": "Войти в систему с",
+            "uz": "Bilan kiring"
+        }
+    },
+    "Create New Account": {
+        "category": "app",
+        "value": "Create New Account",
+        "items": {
+            "en": "Create New Account",
+            "ru": "Создать новый аккаунт",
+            "uz": "Yangi hisob yaratish"
+        }
+    },
+    "Get your free account now": {
+        "category": "app",
+        "value": "Get your free account now",
+        "items": {
+            "en": "Get your free account now",
+            "ru": "Получите бесплатный аккаунт сейчас",
+            "uz": "Bepul hisobingizni hozir oling"
+        }
+    },
+    "By registering you agree": {
+        "category": "app",
+        "value": "By registering you agree",
+        "items": {
+            "en": "By registering you agree",
+            "ru": "Регистрируясь вы соглашаетесь",
+            "uz": "Roʻyxatdan oʻtish orqali siz rozilik bildirasiz"
+        }
+    },
+    "Terms of Use": {
+        "category": "app",
+        "value": "Terms of Use",
+        "items": {
+            "en": "Terms of Use",
+            "ru": "Условия эксплуатации",
+            "uz": "Foydalanish shartlari"
+        }
+    },
+    "Create account with": {
+        "category": "app",
+        "value": "Create account with",
+        "items": {
+            "en": "Create account with",
+            "ru": "Создать учетную запись с",
+            "uz": "bilan hisob yaratish"
+        }
+    },
+    "Subject tests": {
+        "category": "app",
+        "value": "Subject tests",
+        "items": {
+            "en": "Subject tests",
+            "ru": "Предметные тесты",
+            "uz": "Mavzu bo'yicha testlar"
+        }
+    },
+    "Foydalanuvchi": {
+        "category": "app",
+        "value": "Foydalanuvchi",
+        "items": {
+            "en": "User 444",
+            "ru": "Пользователь 123",
+            "uz": "Foydalanuvchi 345"
+        }
+    },
+    "Update Subject: {name}": {
+        "category": "app",
+        "value": "Update Subject: {name}",
+        "items": {
+            "en": "Update Subject: {name}",
+            "ru": "Обновить тему: {name}",
+            "uz": "Mavzuni yangilash: {name}"
+        }
+    },
+    "Total ball": {
+        "category": "app",
+        "value": "Total ball",
+        "items": {
+            "en": "Total Ball",
+            "ru": "Тотал мяч",
+            "uz": "Umumiy to'p"
+        }
+    },
+    "Solve ball": {
+        "category": "app",
+        "value": "Solve ball",
+        "items": {
+            "en": "Solve Ball",
+            "ru": "Решить мяч",
+            "uz": "To'pni hal qilish"
+        }
+    },
+    "Total count": {
+        "category": "app",
+        "value": "Total count",
+        "items": {
+            "en": "Total Count",
+            "ru": "Общее количество",
+            "uz": "Umumiy soni"
+        }
+    },
+    "Solve count": {
+        "category": "app",
+        "value": "Solve count",
+        "items": {
+            "en": "Solve Count",
+            "ru": "Решить счет",
+            "uz": "Hisobni yechish"
+        }
+    },
+    "Present": {
+        "category": "app",
+        "value": "Present",
+        "items": {
+            "en": "Present",
+            "ru": "Подарок",
+            "uz": "Hozirgi"
+        }
+    },
+    "Percentage": {
+        "category": "app",
+        "value": "Percentage",
+        "items": {
+            "en": "Percentage",
+            "ru": "Процент",
+            "uz": "Foiz"
+        }
+    },
+    "Cards": {
+        "category": "app",
+        "value": "Cards",
+        "items": {
+            "en": "Cards",
+            "ru": "Карты",
+            "uz": "Kartalar"
+        }
+    },
+    "Cards Data": {
+        "category": "app",
+        "value": "Cards Data",
+        "items": {
+            "en": "Cards Data",
+            "ru": "Данные карты",
+            "uz": "Karta ma'lumotlari"
+        }
+    },
+    "Test Results": {
+        "category": "app",
+        "value": "Test Results",
+        "items": {
+            "en": "Test Results",
+            "ru": "Результаты теста",
+            "uz": "Sinov natijalari"
+        }
+    },
+    "My Cards": {
+        "category": "app",
+        "value": "My Cards",
+        "items": {
+            "en": "My Cards",
+            "ru": "Мои карты",
+            "uz": "Mening kartalarim"
+        }
+    },
+    "User card form": {
+        "category": "app",
+        "value": "User card form",
+        "items": {
+            "en": "User card form",
+            "ru": "Форма карты пользователя",
+            "uz": "Foydalanuvchi karta shakli"
+        }
+    },
+    "CARD ID: {id}": {
+        "category": "app",
+        "value": "CARD ID: {id}",
+        "items": {
+            "en": "CARD ID: {id}",
+            "ru": "ИДЕНТИФИКАТОР КАРТЫ: {id}",
+            "uz": "KARTA ID: {id}"
+        }
+    },
+    "Create Selected Test": {
+        "category": "app",
+        "value": "Create Selected Test",
+        "items": {
+            "en": "Create Selected Test",
+            "ru": "Создать выбранный тест",
+            "uz": "Tanlangan test yaratish"
+        }
+    },
+    "User Tests": {
+        "category": "app",
+        "value": "User Tests",
+        "items": {
+            "en": "User Tests",
+            "ru": "Пользовательские тесты",
+            "uz": "Foydalanuvchi testlari"
+        }
+    },
+    "USER: {username}": {
+        "category": "app",
+        "value": "USER: {username}",
+        "items": {
+            "en": "USER: {username}",
+            "ru": "ПОЛЬЗОВАТЕЛЬ: {имя пользователя}",
+            "uz": "FOYDALANUVCHI: {username}"
+        }
+    },
+    "Create User Test": {
+        "category": "app",
+        "value": "Create User Test",
+        "items": {
+            "en": "Create User Test",
+            "ru": "Создать пользовательский тест",
+            "uz": "Foydalanuvchi testini yaratish"
+        }
+    },
+    "Update Selected Test: {name}": {
+        "category": "app",
+        "value": "Update Selected Test: {name}",
+        "items": {
+            "en": "Update Selected Test: {name}",
+            "ru": "Обновить выбранный тест: {name}",
+            "uz": "Tanlangan testni yangilash: {name}"
+        }
+    },
+    "Card not found or you have other errors": {
+        "category": "app",
+        "value": "Card not found or you have other errors",
+        "items": {
+            "en": "Card not found or you have other errors",
+            "ru": "Карта не найдена или у вас есть другие ошибки",
+            "uz": "Karta topilmadi yoki sizda boshqa xatolar bor"
+        }
+    },
+    "Register as a teacher": {
+        "category": "app",
+        "value": "Register as a teacher",
+        "items": {
+            "en": "Register as a teacher",
+            "ru": "Зарегистрируйтесь как учитель",
+            "uz": "O'qituvchi sifatida ro'yxatdan o'ting"
+        }
+    },
+    "Remember me": {
+        "category": "app",
+        "value": "Remember me",
+        "items": {
+            "en": "Remember me",
+            "ru": "Запомнить меня",
+            "uz": "Meni eslaysizmi"
+        }
+    },
+    "Created At": {
+        "category": "app",
+        "value": "Created At",
+        "items": {
+            "en": "Created at",
+            "ru": "Создан в",
+            "uz": "Yaratilgan vaqti"
+        }
+    },
+    "CopyLink": {
+        "category": "app",
+        "value": "CopyLink",
+        "items": {
+            "en": "Copy Link",
+            "ru": "Nusxa olish",
+            "uz": "Nusxa olish"
+        }
+    }
+}

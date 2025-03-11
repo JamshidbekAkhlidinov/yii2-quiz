@@ -1,0 +1,606 @@
+[
+    {
+        "category": "app",
+        "value": "Last login"
+    },
+    {
+        "category": "app",
+        "value": "Created at"
+    },
+    {
+        "category": "app",
+        "value": "Updated at"
+    },
+    {
+        "category": "app",
+        "value": "Username"
+    },
+    {
+        "category": "app",
+        "value": "E-mail"
+    },
+    {
+        "category": "app",
+        "value": "Status"
+    },
+    {
+        "category": "app",
+        "value": "API access token"
+    },
+    {
+        "category": "app",
+        "value": "User Tests"
+    },
+    {
+        "category": "app",
+        "value": "Active"
+    },
+    {
+        "category": "app",
+        "value": "Failed"
+    },
+    {
+        "category": "app",
+        "value": "Success"
+    },
+    {
+        "category": "app",
+        "value": "ID"
+    },
+    {
+        "category": "app",
+        "value": "User"
+    },
+    {
+        "category": "app",
+        "value": "Subject"
+    },
+    {
+        "category": "app",
+        "value": "Test"
+    },
+    {
+        "category": "app",
+        "value": "Selected Test"
+    },
+    {
+        "category": "app",
+        "value": "Total Ball"
+    },
+    {
+        "category": "app",
+        "value": "Solve Ball"
+    },
+    {
+        "category": "app",
+        "value": "Total Count"
+    },
+    {
+        "category": "app",
+        "value": "Solve Count"
+    },
+    {
+        "category": "app",
+        "value": "Created At"
+    },
+    {
+        "category": "app",
+        "value": "Expired At"
+    },
+    {
+        "category": "app",
+        "value": "Users"
+    },
+    {
+        "category": "app",
+        "value": "Subjects"
+    },
+    {
+        "category": "app",
+        "value": "Tests"
+    },
+    {
+        "category": "app",
+        "value": "Selected Tests"
+    },
+    {
+        "category": "app",
+        "value": "Cards Data"
+    },
+    {
+        "category": "app",
+        "value": "Cards"
+    },
+    {
+        "category": "app",
+        "value": "Test Results"
+    },
+    {
+        "category": "app",
+        "value": "File manager"
+    },
+    {
+        "category": "app",
+        "value": "I18n Messages"
+    },
+    {
+        "category": "app",
+        "value": "Rbac configuration"
+    },
+    {
+        "category": "app",
+        "value": "Roles"
+    },
+    {
+        "category": "app",
+        "value": "Permissions"
+    },
+    {
+        "category": "app",
+        "value": "Items childs"
+    },
+    {
+        "category": "app",
+        "value": "Home"
+    },
+    {
+        "category": "app",
+        "value": "Welcome Back !"
+    },
+    {
+        "category": "app",
+        "value": "Create Card"
+    },
+    {
+        "category": "app",
+        "value": "Subject ID"
+    },
+    {
+        "category": "app",
+        "value": "Name"
+    },
+    {
+        "category": "app",
+        "value": "Count"
+    },
+    {
+        "category": "app",
+        "value": "Card Datas"
+    },
+    {
+        "category": "app",
+        "value": "Create Card Data"
+    },
+    {
+        "category": "app",
+        "value": "Text"
+    },
+    {
+        "category": "app",
+        "value": "Type"
+    },
+    {
+        "category": "app",
+        "value": "Updated At"
+    },
+    {
+        "category": "app",
+        "value": "Created By"
+    },
+    {
+        "category": "app",
+        "value": "Updated By"
+    },
+    {
+        "category": "app",
+        "value": "--Select--"
+    },
+    {
+        "category": "app",
+        "value": "Save"
+    },
+    {
+        "category": "app",
+        "value": "Subject form"
+    },
+    {
+        "category": "app",
+        "value": "Test form"
+    },
+    {
+        "category": "app",
+        "value": "Question count"
+    },
+    {
+        "category": "app",
+        "value": "Description"
+    },
+    {
+        "category": "app",
+        "value": "Enter Question"
+    },
+    {
+        "category": "app",
+        "value": "Create User"
+    },
+    {
+        "category": "app",
+        "value": "Email"
+    },
+    {
+        "category": "app",
+        "value": "Password"
+    },
+    {
+        "category": "app",
+        "value": "Not Active"
+    },
+    {
+        "category": "app",
+        "value": "Create Subject"
+    },
+    {
+        "category": "app",
+        "value": "Update Subject: {name}"
+    },
+    {
+        "category": "app",
+        "value": "Update"
+    },
+    {
+        "category": "app",
+        "value": "Create Selected Test"
+    },
+    {
+        "category": "app",
+        "value": "Questions"
+    },
+    {
+        "category": "app",
+        "value": "Create Question"
+    },
+    {
+        "category": "app",
+        "value": "Ball"
+    },
+    {
+        "category": "app",
+        "value": "Delete"
+    },
+    {
+        "category": "app",
+        "value": "Are you sure you want to delete this item?"
+    },
+    {
+        "category": "app",
+        "value": "Question view"
+    },
+    {
+        "category": "app",
+        "value": "CopyLink"
+    },
+    {
+        "category": "app",
+        "value": "I18n Source Messages"
+    },
+    {
+        "category": "app",
+        "value": "Create I18n Source Message"
+    },
+    {
+        "category": "app",
+        "value": "Category"
+    },
+    {
+        "category": "app",
+        "value": "Message"
+    },
+    {
+        "category": "app",
+        "value": "Update I18n Source Message: {name}"
+    },
+    {
+        "category": "app",
+        "value": "Issue"
+    },
+    {
+        "category": "app",
+        "value": "Theory"
+    },
+    {
+        "category": "app",
+        "value": "CreateBlanc"
+    },
+    {
+        "category": "app",
+        "value": "Are you sure you want to create this items?"
+    },
+    {
+        "category": "app",
+        "value": "CARD ID: {id}"
+    },
+    {
+        "category": "app",
+        "value": "USER: {username}"
+    },
+    {
+        "category": "app",
+        "value": "Update Card: {name}"
+    },
+    {
+        "category": "app",
+        "value": "Faculty"
+    },
+    {
+        "category": "app",
+        "value": "Department"
+    },
+    {
+        "category": "app",
+        "value": "Education direction"
+    },
+    {
+        "category": "app",
+        "value": "Specialty"
+    },
+    {
+        "category": "app",
+        "value": "Creator"
+    },
+    {
+        "category": "app",
+        "value": "Department head"
+    },
+    {
+        "category": "app",
+        "value": "University"
+    },
+    {
+        "category": "app",
+        "value": "Sign in to continue."
+    },
+    {
+        "category": "app",
+        "value": "Enter username"
+    },
+    {
+        "category": "app",
+        "value": "Remember me"
+    },
+    {
+        "category": "app",
+        "value": "Forgot password?"
+    },
+    {
+        "category": "app",
+        "value": "Enter password"
+    },
+    {
+        "category": "app",
+        "value": "Sign In"
+    },
+    {
+        "category": "app",
+        "value": "Don't have an account ?"
+    },
+    {
+        "category": "app",
+        "value": "Signup"
+    },
+    {
+        "category": "app",
+        "value": "About"
+    },
+    {
+        "category": "app",
+        "value": "Admin dashboard"
+    },
+    {
+        "category": "app",
+        "value": "Attempts"
+    },
+    {
+        "category": "app",
+        "value": "Auth Items"
+    },
+    {
+        "category": "app",
+        "value": "Auth Item Form"
+    },
+    {
+        "category": "app",
+        "value": "Rule Name"
+    },
+    {
+        "category": "app",
+        "value": "Data"
+    },
+    {
+        "category": "app",
+        "value": "Auth Item Update Form"
+    },
+    {
+        "category": "app",
+        "value": "Auth Item Children"
+    },
+    {
+        "category": "app",
+        "value": "Auth Item Child Form"
+    },
+    {
+        "category": "app",
+        "value": "Parent"
+    },
+    {
+        "category": "app",
+        "value": "Child"
+    },
+    {
+        "category": "app",
+        "value": "Foydalanuvchi"
+    },
+    {
+        "category": "app",
+        "value": "Solve ball"
+    },
+    {
+        "category": "app",
+        "value": "Solve count"
+    },
+    {
+        "category": "app",
+        "value": "Total ball"
+    },
+    {
+        "category": "app",
+        "value": "Total count"
+    },
+    {
+        "category": "app",
+        "value": "Percentage"
+    },
+    {
+        "category": "app",
+        "value": "My results"
+    },
+    {
+        "category": "app",
+        "value": "User test form"
+    },
+    {
+        "category": "app",
+        "value": "My Cards"
+    },
+    {
+        "category": "app",
+        "value": "User card form"
+    },
+    {
+        "category": "app",
+        "value": "Create Test"
+    },
+    {
+        "category": "app",
+        "value": "Subject tests"
+    },
+    {
+        "category": "app",
+        "value": "Selected tests"
+    },
+    {
+        "category": "app",
+        "value": "Correct"
+    },
+    {
+        "category": "app",
+        "value": "Update User: {name}"
+    },
+    {
+        "category": "app",
+        "value": "Question"
+    },
+    {
+        "category": "app",
+        "value": "Answers"
+    },
+    {
+        "category": "app",
+        "value": "Update Test: {name}"
+    },
+    {
+        "category": "app",
+        "value": "upload file"
+    },
+    {
+        "category": "app",
+        "value": "Import data"
+    },
+    {
+        "category": "app",
+        "value": "Back"
+    },
+    {
+        "category": "app",
+        "value": "File successfully uploaded"
+    },
+    {
+        "category": "app",
+        "value": "Update Question: {name}"
+    },
+    {
+        "category": "app",
+        "value": "Time is up"
+    },
+    {
+        "category": "app",
+        "value": "Update Profile Data"
+    },
+    {
+        "category": "app",
+        "value": "Firstname"
+    },
+    {
+        "category": "app",
+        "value": "Lastname"
+    },
+    {
+        "category": "app",
+        "value": "Avatar Path"
+    },
+    {
+        "category": "app",
+        "value": "Gender"
+    },
+    {
+        "category": "app",
+        "value": "Phone number"
+    },
+    {
+        "category": "app",
+        "value": "Birthday"
+    },
+    {
+        "category": "app",
+        "value": "Old password"
+    },
+    {
+        "category": "app",
+        "value": "Enter current old password"
+    },
+    {
+        "category": "app",
+        "value": "Passwords do not match"
+    },
+    {
+        "category": "app",
+        "value": "Enter new password"
+    },
+    {
+        "category": "app",
+        "value": "Enter new confirm password"
+    },
+    {
+        "category": "app",
+        "value": "Change password"
+    },
+    {
+        "category": "app",
+        "value": "Profile"
+    },
+    {
+        "category": "app",
+        "value": "Edit Profile"
+    },
+    {
+        "category": "app",
+        "value": "Info"
+    },
+    {
+        "category": "app",
+        "value": "Full Name"
+    },
+    {
+        "category": "app",
+        "value": "Mobile"
+    }
+]
