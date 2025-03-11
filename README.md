@@ -147,6 +147,4 @@ php yii serve
 ~~~   
 php8.1 yii serve
 ~~~
-
-# new_test_application
 # yii2-quiz
